@@ -1,0 +1,47 @@
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .card {
+        background-color: #099;
+        article {
+            width: 350px;
+            height: auto;
+            .btn-facebook {
+                background-color: #405D9D;
+                color: #fff;
+            }
+            
+            .divider-text {
+                position: relative;
+                text-align: center;
+                margin-top: 15px;
+                margin-bottom: 15px;
+
+                .divider-text span {
+                    padding: 7px;
+                    font-size: 12px;
+                    position: relative;   
+                    z-index: 2;
+                }
+
+                &:after {
+                    content: "";
+                    position: absolute;
+                    width: 100%;
+                    border-bottom: 1px solid #ddd;
+                    top: 55%;
+                    left: 0;
+                    z-index: 1;
+                }
+                
+            }
+        }
+    }
+}
+
+
+

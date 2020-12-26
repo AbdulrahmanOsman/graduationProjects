@@ -3,13 +3,13 @@
 <head>
     <!--Meta Tags -->
     <meta charset="UTF-8">
-    <meta name="description" content="Learning Bootstrap5">
-    <meta name="keywords" content="HTML, CSS, JavaScript, Bootstrap5">
-    <meta name="author" content="Abdulrahman Osman">
+    <meta name="description" content="Find & hire top freelancers, web developers & designers inexpensively">
+    <meta name="keywords" content="job, recruitment, freelance, hire, company, cv">
+    <meta name="author" content="Abdulrahman Osman, Ahmed Ayman, Ahmed Elkeay, Ahmed Toukhy, Bassem Karem, Mahmoud Abdelhameed">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!--Page Name -->
-    <title>Online Recruitment </title>
+    <title> Job Recruitment </title>
     <link rel="shortcut icon" href="images/siteIcon.png">
 
     <!--Bootstrap CSS -->
